@@ -1,8 +1,0 @@
-
-# to clone the githb repo (e.g. repository name: studynotes)
-git clone https://github.com/felty6/$YOUR_REPO_NAME
-   
-# after your work, when you want to save your coding work to github:
-git add $YOUR_WORKING_FILE
-git commit -m "$YOUR_COMMENT"
-git push origin master #note: origin is your repository URL in short name
